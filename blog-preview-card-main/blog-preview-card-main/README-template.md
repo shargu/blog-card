@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://blog-card-mj1b.vercel.app/))
+- Solution URL: [Add solution URL here]((https://github.com/shargu/blog-card))
+- Live Site URL: [Add live site URL here]((https://blog-card-mj1b.vercel.app/))
 
 ## My process
 
